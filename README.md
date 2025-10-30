@@ -97,7 +97,7 @@ Systems Architect
 Specializing in structural redesign of organizational, educational, and institutional systems.
 
 **Contact:**  
-Email: faissalalm@gmail.com  
+Email: faissalalmd@gmail.com  
 LinkedIn: [www.linkedin.com/in/faisal-al-masoud-83750b237]
 
 ---
