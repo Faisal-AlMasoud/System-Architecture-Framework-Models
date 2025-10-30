@@ -16,8 +16,6 @@ A systematic framework for organizational design that replaces management theate
 
 Defines functional hierarchies, communication flows, and analytical systems for organizations from startups to enterprises.
 
-📄 [Full Documentation](./seed-to-tree/)
-
 ---
 
 ### 2. [Compressed Education System (CES)](./compressed-education-system/)
@@ -27,8 +25,6 @@ Defines functional hierarchies, communication flows, and analytical systems for 
 A complete architectural replacement for industrial-era education systems.
 
 Compresses workforce development from 16-22 years into 8 years while producing superior competency outcomes through tier-based apprenticeships and sector-specific training.
-
-📄 [Full Documentation](./compressed-education-system/) *(coming soon)*
 
 ---
 
@@ -102,7 +98,7 @@ Specializing in structural redesign of organizational, educational, and institut
 
 **Contact:**  
 Email: faissalalm@gmail.com  
-LinkedIn: [your profile link]
+LinkedIn: [www.linkedin.com/in/faisal-al-masoud-83750b237]
 
 ---
 
