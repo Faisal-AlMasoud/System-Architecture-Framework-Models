@@ -56,7 +56,7 @@ For commercial implementation consulting:
 
 "Faisal Al Masoud"  
 Systems Architect  
-Email: faissalalm@gmail.com  
+Email: faissalalmd@gmail.com  
 LinkedIn: [www.linkedin.com/in/faisal-al-masoud-83750b237]
 
 ## Citation
@@ -65,5 +65,6 @@ Al Masoud, F. (2025). Seed-To-Tree Organizational Structure Model:
 A Comprehensive Framework for Organizational Design, Management, and Analysis.
 https://github.com/[username]/seed-to-tree
 ```
+
 
 Intellectual Property: Registered 2025 | © Faisal Al Masoud
